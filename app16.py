@@ -7,7 +7,7 @@ import sqlite3  # User authentication & storage
 from uuid import uuid4  # Unique ID for versioning
 
 # --- API CONFIGURATION ---
-GEMINI_API_KEY = "AIzaSyDOvM48IMxod_4SvEttajKXcVDblmKHyPk"  # Replace with your key
+GEMINI_API_KEY = "AIzaSyDOvM48IMxod_4SvEttajKXcVDblmKHyP**"  # Replace with your key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- DATABASE FOR USER AUTHENTICATION ---
