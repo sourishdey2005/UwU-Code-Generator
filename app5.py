@@ -7,7 +7,7 @@ import os
 from streamlit_lottie import st_lottie
 
 # --- API CONFIGURATION ---
-GEMINI_API_KEY = "AIzaSyCOvjCXNr-24ZVABhxMqbbD9mV7Wlr1k5U"  # Replace with your key
+GEMINI_API_KEY = "*******************************"  # Replace with your key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- UI CONFIGURATION ---
