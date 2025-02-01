@@ -22,7 +22,7 @@ from transformers import pipeline  # AI-powered auto-complete
 from uuid import uuid4  # Unique ID for versioning
 
 # --- API CONFIGURATION ---
-GEMINI_API_KEY = "AIzaSyCOvjCXNr-24ZVABhxMqbbD9mV7Wlr1k5U"  # Replace with your key
+GEMINI_API_KEY = "AIzaSyCOvjCXNr-24ZVABhxMqbbD9mV7Wlr1k5*"  # Replace with your key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- DARK MODE TOGGLE ---
